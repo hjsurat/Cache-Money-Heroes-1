@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 03ffc94257a1f7b46bf898ef2581f301
+timeCreated: 1490663105
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - rb2d: {instanceID: 0}
+  - ArrowPrefab: {instanceID: 0}
+  - ArrowSpawn: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
