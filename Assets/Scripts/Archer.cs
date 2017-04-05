@@ -9,7 +9,6 @@ public class Archer : MonoBehaviour
     private SpriteRenderer SpriteRend;
     public Rigidbody2D rb2d;
     public GameObject ArrowPrefab;
-    public GameObject DildoPrefab;
     public Transform ArrowSpawn;
 
 
